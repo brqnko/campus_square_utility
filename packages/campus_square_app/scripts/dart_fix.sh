@@ -1,0 +1,1 @@
+cd ../ && dart fix --apply lib
